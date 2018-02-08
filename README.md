@@ -14,7 +14,7 @@ to complete 1 loop. Also the car should not experience total acceleration over 1
 
 ## Rubic Points
 
-![Capture] ./Capture.png
+![Capture](./Capture.png)
 
 #### The car is able to drive at least 4.32 miles without incident:
 As showing in captured image the car drives 7.71 miles without Collision, no Acceleration and Jerk violations
