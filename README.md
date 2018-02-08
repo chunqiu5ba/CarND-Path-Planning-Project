@@ -1,6 +1,9 @@
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
    
+[//]: # (Image References)
+[image1]: ./Capture.png
+
 
 ## Goals
 In this project the goal is to safely navigate around a virtual highway with other traffic 
@@ -14,14 +17,14 @@ to complete 1 loop. Also the car should not experience total acceleration over 1
 
 ## Rubic Points
 
-![Capture](./Capture.png)
+![Capture][image1]
 
 #### The car is able to drive at least 4.32 miles without incident:
 As showing in captured image the car drives 7.71 miles without Collision, no Acceleration and Jerk violations
 #### The car drives according to the speed limit:
 Max running speed was set at 49 mph, where the speed limit is 50 mph
 #### Max Acceleration and Jerk are not Exceeded:
-Max Acceleration was set at 10mis (22.4 mph), no Max Acceleration and Jerk are exceeded during test runs
+Max Acceleration was set at 10m/s (22.4 mph), no Max Acceleration and Jerk are exceeded during test runs
 #### Car does not have collisions:
 No collisions during test runs
 #### The car stays in its lane:
